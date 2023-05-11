@@ -1,0 +1,56 @@
+20230415
+added facemask ellios lab under 3D
+added master meter under animation
+
+
+
+20180311
+fixed main nav
+update copyright 
+
+
+20170426
+-add 3d stereoscopic video
+
+
+
+20170122
+- add 2 3D renders
+
+
+20160902
+-removed team section
+
+
+20160328
+updated works
+-ginger man animation
+
+index.html
+-added js to hide video when not at the top of page
+
+responsive.css
+-hide the .videolay div for mobile
+
+
+20160323
+updated works
+-kls website
+-pendulumic video
+
+20151026
+new works section
+-added video
+-updated 2 works to video section
+
+updated works
+-jbs website
+-durian lingers magazine ad and durian lingers comic
+
+20150907
+updated works
+REHAU KM08R Portable Edgebanding (RAUKANTEX)
+https://www.youtube.com/watch?v=itWVe5AQ1Qk
+
+20150708
+updated works - sin joo lee website
